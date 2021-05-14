@@ -1,2 +1,2 @@
 # Patterns
-A personal implementations on common design patterns.
+A personal practice on implementations of common design patterns.
